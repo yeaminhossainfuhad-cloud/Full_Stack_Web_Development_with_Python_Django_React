@@ -1,1 +1,1 @@
-# Full_Stack_Web_Development_with_Python_Django_React_-_AI
+# Full_Stack_Web_Development_with_Python_Django_React
